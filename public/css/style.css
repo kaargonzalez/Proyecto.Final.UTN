@@ -127,7 +127,7 @@ li {
 
 @media (max-width: 420px) {
   footer {
-    height: 85vh;
+    height: 90vh;
   }
   .legales {
     margin-top: 50%;
@@ -136,9 +136,26 @@ li {
 
 @media (max-width: 720px) {
   footer {
+    height: 92vh;
+  }
+  .legales {
+    margin-top: 45%;
+  }
+}
+@media (max-width: 780px) {
+  footer {
     height: 90vh;
   }
   .legales {
-    margin-top: 30%;
+    margin-top: 40%;
+  }
+}
+
+@media (min-width: 250px) {
+  footer {
+    height: 95vh;
+  }
+  .legales {
+    margin-top: 60%;
   }
 }
