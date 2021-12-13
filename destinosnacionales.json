@@ -1,0 +1,35 @@
+[   
+{
+        "imagen": "../imagenes/bariloche.PF.jpg",
+        "titulo": "Tour Bariloche",
+        "descripcion":  "Bariloche se destaca por sus múltiples colores a lo largo del año, vení a conocerlo en VERANO 2022",
+        "alojamiento":"Hostel",
+        "infoAdicional": "Excursión a Cerro Campanario",
+        "tipoPension": "Media Pensión"
+
+},
+{
+        "imagen": "../imagenes/iguazu-PF.jpg",
+        "titulo": "Iguazú Time!",
+        "descripcion": "¿Querés conocer una de las maravillas del mundo? Este es el momento!",
+        "alojamiento": "Hotel 3*",
+        "infoAdicional": "Navegación en Catamaran por la selva",
+        "tipoPension": "All inclusive"
+},
+{
+        "imagen": "../imagenes/norte-PF.jpg" ,
+        "titulo": "Jujúy y Salta",
+        "descripcion": "Vení a conocer la variedad de paisajes que ofrece el norte nacional!",
+        "alojamiento": "Hotel 4*",
+        "infoAdicional": "Recorridos por Purmamarca, Salinas Grandes y Humahuaca",
+        "tipoPension": "Incluye Cena"
+},
+{
+        "imagen": "../imagenes/ballena-PF.jpg" ,
+        "titulo": "Puerto Madryn y Península Valdés!",
+        "descripcion": "Temporada ideal para avistamiento de la increíble ballena Franca Austral",
+        "alojamiento": "Hotel 3*",
+        "infoAdicional": "Navegación",
+        "tipoPension": "All inclusive"
+}
+]

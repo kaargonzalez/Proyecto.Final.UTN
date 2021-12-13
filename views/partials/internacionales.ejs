@@ -1,0 +1,30 @@
+
+
+<div class="titulo-section-internacionales">
+    <h2>Internacionales</h2>
+</div>
+
+<section id= "internacional" class= "internacionales">
+ <% dataInternacionales.forEach((destino) =>{ %> 
+<div class="card" style="width: 18rem;">
+      <img src= "<%= destino.imagen %>" class="card-img-top" alt="imagen-destino">
+      <div class="card-body">
+          <h5 class="card-title"> <%= destino.titulo %> </h5>
+          <p class="card-text">
+            <%= destino.descripcion %>
+          </p>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item"> <%= destino.alojamiento %> </li>
+        <li class="list-group-item"><%= destino.infoAdicional %></li>
+        <li class="list-group-item"><%= destino.tipoPension%></li>
+      </ul>
+      <div class="card-body">
+        <a href="#" class="card-link">Más info</a>
+        <a href="#" class="card-link">Ver Fechas</a>
+      </div>
+</div>
+<%  }); %> 
+
+
+</section>

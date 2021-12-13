@@ -1,0 +1,20 @@
+<div class="titulo-novedades">
+    <h2>Información Útil</h2>
+</div>
+
+<section class="sector-informativo">
+    <% dataNovedades.forEach((info) =>{ %> 
+        <article>
+            <div class="card" style="width: 18rem;">
+                <img src="<%= info.imagen%>" class="card-img-top" alt="imagen-novedades">
+                <div class="card-body">
+                  <h5 class="card-title"><%=info.titulo%></h5>
+                  <p class="card-text"><%=info.descripcion%></p>
+                  <a href="<%=info.link%>" class="card-link-novedades">Ver Más</a>
+                  </div>
+              </div>
+        </article>
+        <%  }); %> 
+   
+    </div>
+</section>

@@ -1,0 +1,16 @@
+[
+    {
+      "imagen":  "../imagenes/PCRmisiones-PF.jpeg",
+      "titulo": "Buenas Noticias",
+      "descripcion": "Misiones elimino el testeo obligatorio para ingresar a la provincia. Lee el articulo completo haciendo click.",
+      "link": "https://viajerosacataratas.com/informacion/requisitos-para-ingresar-a-misiones/"
+    },
+    {
+        "imagen":  "../imagenes/logo-previaje-PF.jpg",
+        "titulo": "Previaje 50% Off",
+        "descripcion": "Podes viajar y te devolvemos el 50% del monto total para que puedas seguir viajando durante todo el 2022",
+        "link": "https://www.argentina.gob.ar/turismoydeportes/previaje" 
+    }
+
+
+]

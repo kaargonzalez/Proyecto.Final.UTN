@@ -1,0 +1,144 @@
+header {
+  background-color: rgb(251, 249, 249);
+  width: 100%;
+  height: 8vh;
+  margin-top: 0%;
+  position: sticky;
+  display: flex;
+}
+
+.titulo-header {
+  color: black;
+  margin-left: 15%;
+  font-family: "Lobster", cursive;
+}
+
+.nav-item {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-link {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+.container-fluid {
+  background-color: white;
+}
+.carousel-item {
+  width: 100%;
+  display: absolute;
+  height: 75vh;
+  margin-top: 0vh;
+}
+
+.titulo-section-internacionales {
+  margin: 1.5%;
+  font-family: "Lobster", cursive;
+}
+
+.internacionales {
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card-title {
+  margin: 2%;
+  text-align: center;
+}
+.card-text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo-section-argentina {
+  margin: 1.5%;
+  font-family: "Lobster", cursive;
+}
+
+.argentina {
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.sector-informativo {
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.titulo-novedades {
+  margin: 1.5%;
+  font-family: "Lobster", cursive;
+}
+.card-link-novedades {
+  margin: 15vh;
+}
+
+.list-group-item {
+  font-weight: bold;
+  color: rgb(77, 75, 75);
+}
+
+footer {
+  position: relative;
+  background-color: rgb(77, 75, 75);
+  width: 100%;
+  height: 60vh;
+}
+
+li {
+  text-decoration: none;
+}
+
+.contacto {
+  position: absolute;
+  color: whitesmoke;
+  margin-left: 2%;
+  margin-top: 3%;
+
+  background-color: rgb(77, 75, 75);
+}
+
+.redes-sociales {
+  color: whitesmoke;
+}
+
+.contacto p {
+  margin: 0%;
+}
+
+.legales {
+  color: rgb(202, 202, 202);
+  position: absolute;
+  margin-left: 2%;
+  margin-top: 18%;
+}
+.legales p {
+  margin: 0%;
+}
+
+@media (max-width: 420px) {
+  footer {
+    height: 85vh;
+  }
+  .legales {
+    margin-top: 50%;
+  }
+}
+
+@media (max-width: 720px) {
+  footer {
+    height: 90vh;
+  }
+  .legales {
+    margin-top: 30%;
+  }
+}

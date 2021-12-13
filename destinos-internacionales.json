@@ -1,0 +1,35 @@
+[
+    {
+        "imagen": "../imagenes/grecia-PF.jpg",
+        "titulo": "Santorini Love!",
+        "descripcion": " Grecia te esta esperando! Vení, a disfrutar del verano 2022",
+        "alojamiento": "Hostel",
+        "infoAdicional": "Navegación",
+        "tipoPension": "All inclusive"
+    },
+    {
+        "imagen": "../imagenes/estatua-libertad-PF.jpg",
+        "titulo": "Viví Nueva York!",
+        "descripcion": "Desde Buenos Aires, Noviembre 2021",
+        "alojamiento": "Hotel 3*",
+        "infoAdicional": "Tours",
+        "tipoPension":  "All inclusive"
+    },
+    {
+        "imagen":"../imagenes/cancun-PF.jpg",
+        "titulo": "Cancún Relax",
+        "descripcion": " ¿Necesitas relajarte? Nuestro paquete Cancún Relax es ideal para vos.",
+        "alojamiento":"Hotel 5*",
+        "infoAdicional": "Clase de Buceo",
+        "tipoPension": "All inclusive"
+    },
+    {
+        "imagen": "../imagenes/eiffel-tower-PF.jpg",
+        "titulo": "Francia Romance",
+        "descripcion": "Desde Buenos Aires en diciembre 2021¡No te quedes sin tu viaje!",
+        "alojamiento": "Hotel 3",
+        "infoAdicional": "Tours/Excursiones",
+        "tipoPension":     "All inclusive" 
+    }
+
+]
